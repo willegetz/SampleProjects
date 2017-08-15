@@ -41,8 +41,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SailingShip.cs" />
-    <Compile Include="ShipYard.cs" />
+    <Compile Include="TallShip.cs" />
+    <Compile Include="Construction.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

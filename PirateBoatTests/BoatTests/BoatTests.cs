@@ -19,7 +19,7 @@ namespace BoatTests
         {
             // arrange
             // Instantiate the ship factory
-            var shipyard = new ShipYard();
+            var shipyard = new Construction();
             // act
             // Get a clipper ship
             var clipperShip = shipyard.GetClipper();

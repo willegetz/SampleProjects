@@ -11,7 +11,7 @@ namespace Shps
     {
         static void Main(string[] args)
         {
-            var ships = new ShipYard();
+            var ships = new Construction();
             var ship = ships.GetClipper();
             Console.WriteLine("Press Any Key to get a ship :)");
             Console.ReadKey();

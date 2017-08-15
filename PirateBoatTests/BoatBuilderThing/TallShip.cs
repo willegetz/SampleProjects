@@ -1,8 +1,8 @@
 ﻿namespace BoatBuilderThing
 {
-    public class SailingShip
+    public class TallShip
     {
-        public SailingShip()
+        public TallShip()
         {
         }
 

@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace BoatBuilderThing
 {
-    public class ShipYard
+    public class Construction
     {
-        public SailingShip GetClipper()
+        public TallShip GetClipper()
         {
-            return new SailingShip()
+            return new TallShip()
             {
                 Name = "Clipper Ship",
                 Masts = "3",

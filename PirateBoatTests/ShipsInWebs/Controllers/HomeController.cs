@@ -11,7 +11,7 @@ namespace ShipsInWebs.Controllers
     {
         public ActionResult Index()
         {
-            var shipyard = new ShipYard();
+            var shipyard = new Construction();
             var ship = shipyard.GetClipper();
             ViewBag.ship = ship.ToString();
             return View();
