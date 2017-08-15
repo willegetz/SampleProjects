@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Shps
+namespace NauticalVesselConsole
 {
     public class Program
     {

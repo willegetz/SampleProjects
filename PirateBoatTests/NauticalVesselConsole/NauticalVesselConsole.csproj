@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{34B0932A-EEC5-4007-9091-310569274B98}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Shps</RootNamespace>
-    <AssemblyName>Shps</AssemblyName>
+    <RootNamespace>NauticalVesselConsole</RootNamespace>
+    <AssemblyName>NauticalVesselConsole</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
