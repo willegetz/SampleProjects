@@ -49,7 +49,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\NauticalVessels\ShipYard\ShipYard.csproj">
+    <ProjectReference Include="..\..\..\NauticalVessels\ShipYard\ShipYard.csproj">
       <Project>{90d1f0f7-873f-4386-bfb1-1f8646c24f47}</Project>
       <Name>ShipYard</Name>
     </ProjectReference>

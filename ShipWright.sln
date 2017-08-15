@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoatTests", "PirateBoatTest
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipYard", "NauticalVessels\ShipYard\ShipYard.csproj", "{90D1F0F7-873F-4386-BFB1-1F8646C24F47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NauticalVesselConsole", "PirateBoatTests\NauticalVesselConsole\NauticalVesselConsole.csproj", "{34B0932A-EEC5-4007-9091-310569274B98}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NauticalVesselConsole", "Clients\Desktop\NauticalVesselConsole\NauticalVesselConsole.csproj", "{34B0932A-EEC5-4007-9091-310569274B98}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipsInWebs", "PirateBoatTests\ShipsInWebs\ShipsInWebs.csproj", "{A1420171-242A-4A7A-8E91-01C461FC6D57}"
 EndProject
