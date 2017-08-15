@@ -8,11 +8,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BoatTests
+namespace NauticalVesselsTests
 {
     [TestClass]
     [UseReporter(typeof(VisualStudioReporter))]
-    public class BoatTests
+    public class NauticalVesselsTests
     {
         [TestMethod]
         public void TestGetABoat()
