@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoatTests", "PirateBoatTests\BoatTests\BoatTests.csproj", "{C5059F9A-E268-4158-A031-059E35E6D1F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipYard", "PirateBoatTests\ShipYard\ShipYard.csproj", "{90D1F0F7-873F-4386-BFB1-1F8646C24F47}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipYard", "NauticalVessels\ShipYard\ShipYard.csproj", "{90D1F0F7-873F-4386-BFB1-1F8646C24F47}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shps", "PirateBoatTests\Shps\Shps.csproj", "{34B0932A-EEC5-4007-9091-310569274B98}"
 EndProject
