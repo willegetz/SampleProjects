@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace ShipsInWebs
+namespace NauticalVesselsMvc
 {
     public class FilterConfig
     {

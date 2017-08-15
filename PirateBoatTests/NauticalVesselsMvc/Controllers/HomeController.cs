@@ -5,7 +5,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace ShipsInWebs.Controllers
+namespace NauticalVesselsMvc.Controllers
 {
     public class HomeController : Controller
     {
