@@ -1,6 +1,6 @@
 ﻿using ApprovalTests;
 using ApprovalTests.Reporters;
-using BoatBuilderThing;
+using ShipYard;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;

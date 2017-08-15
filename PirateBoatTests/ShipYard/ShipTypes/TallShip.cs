@@ -1,4 +1,4 @@
-﻿namespace BoatBuilderThing
+﻿namespace ShipYard
 {
     public class TallShip
     {

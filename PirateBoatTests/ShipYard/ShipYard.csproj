@@ -7,8 +7,8 @@
     <ProjectGuid>{90D1F0F7-873F-4386-BFB1-1F8646C24F47}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BoatBuilderThing</RootNamespace>
-    <AssemblyName>BoatBuilderThing</AssemblyName>
+    <RootNamespace>ShipYard</RootNamespace>
+    <AssemblyName>ShipYard</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

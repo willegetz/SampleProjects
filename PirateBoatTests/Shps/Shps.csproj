@@ -49,9 +49,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BoatBuilderThing\BoatBuilderThing.csproj">
+    <ProjectReference Include="..\ShipYard\ShipYard.csproj">
       <Project>{90d1f0f7-873f-4386-bfb1-1f8646c24f47}</Project>
-      <Name>BoatBuilderThing</Name>
+      <Name>ShipYard</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
